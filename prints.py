@@ -1,0 +1,8 @@
+print("Johny Johny")
+print("Yes, Pappa")
+print("Eating sugar?")
+print("No, Pappa!")
+print("Telling lies?")
+print("No, Pappa!")
+print("Open Your Mouth!")
+print("Ha Ha Ha!")
